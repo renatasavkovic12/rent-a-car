@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-23T14:20:19.646740200Z</date>
+  <millis>1719152419646</millis>
+  <nanos>740200</nanos>
+  <sequence>0</sequence>
+  <logger>com.example.projekat2024.Main</logger>
+  <level>SEVERE</level>
+  <class>com.example.projekat2024.RadSaFajlovima.BinarnaSerijalizacija</class>
+  <method>serijalizujVozilaSNajvecimGubicima</method>
+  <thread>77</thread>
+  <message>java.io.FileNotFoundException: Vozila sa najvise kvarova\kvarB.ser (The system cannot find the path specified)</message>
+</record>
+<record>
+  <date>2024-06-23T14:20:19.680788600Z</date>
+  <millis>1719152419680</millis>
+  <nanos>788600</nanos>
+  <sequence>1</sequence>
+  <logger>com.example.projekat2024.Main</logger>
+  <level>SEVERE</level>
+  <class>com.example.projekat2024.RadSaFajlovima.BinarnaSerijalizacija</class>
+  <method>serijalizujVozilaSNajvecimGubicima</method>
+  <thread>77</thread>
+  <message>java.io.FileNotFoundException: Vozila sa najvise kvarova\kvarA.ser (The system cannot find the path specified)</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>

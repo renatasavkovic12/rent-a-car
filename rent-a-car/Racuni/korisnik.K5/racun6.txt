@@ -1,0 +1,20 @@
+Racun: racun6
+-------------------------------------------------------------
+Korisnik: K5, broj vozacke:5, dokument:Pasos:K5
+-------------------------------------------------------------
+Iznajmljivanje: Sat Jun 01 10:00:00 CEST 2024Vozilo: A1, tipa: automobil, ciji je proizvodjac: A, te model: M1, sa cijenom nabavke: 50000, datum nabavke: 1.5.2024., dodatan opis: primjer 1
+Racuni za sva iznajmljivanja: [
+RACUN:racun6, za iznajmljivanje:Sat Jun 01 10:00:00 CEST 2024, korisnika: K5, trebalo bi da plati: 207,03, a placa: 0,00
+]
+Osnovna cijena: 0.0
+-------------------------------------------------------------
+Udaljenost: 22.75
+-------------------------------------------------------------
+Popusti: 0.0
+-------------------------------------------------------------
+Promocije: 0.0
+-------------------------------------------------------------
+-------------------------------------------------------------
+Ukupan iznos za placanje: 0.0
+-------------------------------------------------------------
+KORISNIK OSLOBODJEN PLACANJA ZBOG KVARA !!!

@@ -1,0 +1,18 @@
+Racun: racun0
+-------------------------------------------------------------
+Korisnik: K1, broj vozacke:1, dokument:Licna karta:K1
+-------------------------------------------------------------
+Iznajmljivanje: Sat Jun 01 09:00:00 CEST 2024Vozilo: T1, tipa: trotinet, ciji je proizvodjac: T, te model: TM1, sa cijenom nabavke: 1000, max brzine: 50
+Racuni za sva iznajmljivanja: [
+RACUN:racun0, za iznajmljivanje:Sat Jun 01 09:00:00 CEST 2024, korisnika: K1, trebalo bi da plati: 5,00, a placa: 5,00
+]
+Osnovna cijena: 1.0
+-------------------------------------------------------------
+Udaljenost: 5.0
+-------------------------------------------------------------
+Popusti: 0.1
+-------------------------------------------------------------
+Promocije: 0.15
+-------------------------------------------------------------
+-------------------------------------------------------------
+Ukupan iznos za placanje: 5.0

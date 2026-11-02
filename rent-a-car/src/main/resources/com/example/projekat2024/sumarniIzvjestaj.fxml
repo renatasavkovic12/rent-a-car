@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="700.0" prefWidth="850.0" style="-fx-background-color: #4dd49c;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.projekat2024.Kontroleri.sumarniIzvjestajController">
+    <children>
+        <Label layoutX="14.0" layoutY="44.0" text="SUMARNI IZVJEŠTAJ:" textFill="WHITE">
+            <font>
+                <Font name="System Bold" size="14.0" />
+            </font>
+        </Label>
+        <TableView fx:id="sumarniIzvjestaj" layoutX="14.0" layoutY="78.0" prefHeight="151.0" prefWidth="820.0">
+            <columns>
+                <TableColumn fx:id="ukupanPrihod" prefWidth="59.199984550476074" text="Prihod" />
+                <TableColumn fx:id="ukupanPopust" prefWidth="59.999969482421875" text="Popust" />
+                <TableColumn fx:id="ukupnoPromocija" prefWidth="81.60000610351562" text="Promocija" />
+                <TableColumn fx:id="iznosVoznjiUziDio" prefWidth="127.19999694824219" text="Iznos voznji uzi dio" />
+                <TableColumn fx:id="ukupnoOdrzavanje" prefWidth="97.5999755859375" text="Odrzavanje" />
+                <TableColumn fx:id="popravkeKvarova" prefWidth="87.20001220703125" text="Popravke" />
+                <TableColumn fx:id="ukupanPorezKompanije" prefWidth="78.39996337890625" text="Porez" />
+                <TableColumn fx:id="ukupniTroskoviKompanije" prefWidth="81.5999755859375" text="Troskovi" />
+                <TableColumn fx:id="iznosVoznjiSiriDio" prefWidth="148.7999267578125" text="Iznos voznji siri dio" />
+            </columns>
+        </TableView>
+    </children>
+</AnchorPane>

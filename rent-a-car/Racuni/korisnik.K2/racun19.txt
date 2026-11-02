@@ -1,0 +1,18 @@
+Racun: racun19
+-------------------------------------------------------------
+Korisnik: K2, broj vozacke:2, dokument:Licna karta:K2
+-------------------------------------------------------------
+Iznajmljivanje: Sun Jun 02 10:00:00 CEST 2024Vozilo: T10, tipa: trotinet, ciji je proizvodjac: T, te model: TM3, sa cijenom nabavke: 800, max brzine: 60
+Racuni za sva iznajmljivanja: [
+RACUN:racun19, za iznajmljivanje:Sun Jun 02 10:00:00 CEST 2024, korisnika: K2, trebalo bi da plati: 28,80, a placa: 28,80
+]
+Osnovna cijena: 2.4000000000000004
+-------------------------------------------------------------
+Udaljenost: 12.000000000000002
+-------------------------------------------------------------
+Popusti: 0.24000000000000005
+-------------------------------------------------------------
+Promocije: 0.0
+-------------------------------------------------------------
+-------------------------------------------------------------
+Ukupan iznos za placanje: 28.800000000000008

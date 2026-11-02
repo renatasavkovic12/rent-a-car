@@ -1,0 +1,26 @@
+Racun: racun33
+-------------------------------------------------------------
+Korisnik: K3, broj vozacke:3, dokument:Licna karta:K3
+-------------------------------------------------------------
+Iznajmljivanje: Mon Jun 03 13:00:00 CEST 2024Vozilo: T1, tipa: trotinet, ciji je proizvodjac: T, te model: TM1, sa cijenom nabavke: 1000, max brzine: 50
+Racuni za sva iznajmljivanja: [
+RACUN:racun0, za iznajmljivanje:Sat Jun 01 09:00:00 CEST 2024, korisnika: K1, trebalo bi da plati: 5,00, a placa: 5,00
+, 
+RACUN:racun8, za iznajmljivanje:Sat Jun 01 11:30:00 CEST 2024, korisnika: K2, trebalo bi da plati: 12,80, a placa: 12,80
+, 
+RACUN:racun11, za iznajmljivanje:Sat Jun 01 13:00:00 CEST 2024, korisnika: K2, trebalo bi da plati: 2,50, a placa: 2,50
+, 
+RACUN:racun31, za iznajmljivanje:Mon Jun 03 11:30:00 CEST 2024, korisnika: K4, trebalo bi da plati: 2,50, a placa: 2,50
+, 
+RACUN:racun33, za iznajmljivanje:Mon Jun 03 13:00:00 CEST 2024, korisnika: K3, trebalo bi da plati: 8,10, a placa: 8,10
+]
+Osnovna cijena: 1.8
+-------------------------------------------------------------
+Udaljenost: 4.5
+-------------------------------------------------------------
+Popusti: 0.18000000000000002
+-------------------------------------------------------------
+Promocije: 0.27
+-------------------------------------------------------------
+-------------------------------------------------------------
+Ukupan iznos za placanje: 8.1

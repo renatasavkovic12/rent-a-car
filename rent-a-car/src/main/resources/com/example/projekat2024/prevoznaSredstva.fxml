@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="700.0" prefWidth="850.0" style="-fx-background-color: #8ae493;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.projekat2024.Kontroleri.PrevoznaSredstvaController">
+    <children>
+        <Label layoutX="16.0" layoutY="14.0" prefHeight="18.0" prefWidth="148.0" text="ELEKTRIČNI AUTOMOBILI:" textFill="WHITE">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <Label layoutX="16.0" layoutY="241.0" text="ELEKTRIČNI TROTINETI:" textFill="WHITE">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <Label layoutX="14.0" layoutY="471.0" text="ELEKTRIČNI BICIKLI:" textFill="WHITE">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <TableView fx:id="tabelaAutomobila" layoutX="16.0" layoutY="32.0" prefHeight="200.0" prefWidth="807.0">
+            <columns>
+                <TableColumn fx:id="identifikatorAuta" prefWidth="42.4000244140625" text="ID" />
+                <TableColumn fx:id="proizvodjacAutomobila" prefWidth="94.39999771118164" text="PROIZVOĐAČ" />
+                <TableColumn fx:id="modelAutomobila" prefWidth="55.200042724609375" text="MODEL" />
+                <TableColumn fx:id="cijenaAutomobila" prefWidth="61.59996032714844" text="CIJENA" />
+                <TableColumn fx:id="datumNabavkeAutomobila" prefWidth="117.5999755859375" text="DATUM NABAVKE" />
+                <TableColumn fx:id="opisAutomobila" prefWidth="437.60003662109375" text="OPIS" />
+            </columns>
+        </TableView>
+        <TableView fx:id="tabelaTrotineta" layoutX="14.0" layoutY="259.0" prefHeight="200.0" prefWidth="578.0">
+            <columns>
+                <TableColumn fx:id="identifikatorTrotineta" prefWidth="67.2000150680542" text="ID" />
+                <TableColumn fx:id="proizvodjacTrotineta" prefWidth="120.79998779296875" text="PROIZVOĐAČ" />
+                <TableColumn fx:id="modelTrotineta" prefWidth="105.60002136230469" text="MODEL" />
+                <TableColumn fx:id="cijenaTrotineta" minWidth="0.0" prefWidth="90.39996337890625" text="CIJENA" />
+                <TableColumn fx:id="maxBrzinaTrotineta" prefWidth="193.60003662109375" text="MAKSIMALNA BRZINA" />
+            </columns>
+        </TableView>
+        <TableView fx:id="tabelaBicikala" layoutX="14.0" layoutY="489.0" prefHeight="200.0" prefWidth="662.0">
+            <columns>
+                <TableColumn fx:id="identifikatorBicikla" prefWidth="75.0" text="ID" />
+                <TableColumn fx:id="proizvodjacBicikla" prefWidth="164.79998779296875" text="PROIZVOĐAČ" />
+                <TableColumn fx:id="modelBicikla" prefWidth="70.40000915527344" text="MODEL" />
+                <TableColumn fx:id="cijenaBicikla" prefWidth="109.5999755859375" text="CIJENA" />
+                <TableColumn fx:id="dometBicikla" prefWidth="245.60003662109375" text="DOMET JEDNOG PUNJENJA" />
+            </columns>
+        </TableView>
+    </children>
+</AnchorPane>

@@ -1,0 +1,18 @@
+Racun: racun32
+-------------------------------------------------------------
+Korisnik: K4, broj vozacke:4, dokument:Licna karta:K4
+-------------------------------------------------------------
+Iznajmljivanje: Mon Jun 03 11:30:00 CEST 2024Vozilo: T9, tipa: trotinet, ciji je proizvodjac: T, te model: TM2, sa cijenom nabavke: 500, max brzine: 30
+Racuni za sva iznajmljivanja: [
+RACUN:racun32, za iznajmljivanje:Mon Jun 03 11:30:00 CEST 2024, korisnika: K4, trebalo bi da plati: 0,80, a placa: 0,80
+]
+Osnovna cijena: 0.4
+-------------------------------------------------------------
+Udaljenost: 2.0
+-------------------------------------------------------------
+Popusti: 0.04000000000000001
+-------------------------------------------------------------
+Promocije: 0.0
+-------------------------------------------------------------
+-------------------------------------------------------------
+Ukupan iznos za placanje: 0.8

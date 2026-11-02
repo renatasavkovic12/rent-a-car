@@ -1,0 +1,20 @@
+Racun: racun26
+-------------------------------------------------------------
+Korisnik: K2, broj vozacke:2, dokument:Licna karta:K2
+-------------------------------------------------------------
+Iznajmljivanje: Mon Jun 03 09:30:00 CEST 2024Vozilo: A2, tipa: automobil, ciji je proizvodjac: A, te model: M2, sa cijenom nabavke: 35000, datum nabavke: 16.5.2024., dodatan opis: primjer 2
+Racuni za sva iznajmljivanja: [
+RACUN:racun14, za iznajmljivanje:Sun Jun 02 09:00:00 CEST 2024, korisnika: K1, trebalo bi da plati: 551,25, a placa: 551,25
+, 
+RACUN:racun26, za iznajmljivanje:Mon Jun 03 09:30:00 CEST 2024, korisnika: K2, trebalo bi da plati: 44,10, a placa: 44,10
+]
+Osnovna cijena: 4.199999999999999
+-------------------------------------------------------------
+Udaljenost: 10.499999999999998
+-------------------------------------------------------------
+Popusti: 0.41999999999999993
+-------------------------------------------------------------
+Promocije: 0.6299999999999999
+-------------------------------------------------------------
+-------------------------------------------------------------
+Ukupan iznos za placanje: 44.09999999999999

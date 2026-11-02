@@ -1,0 +1,22 @@
+Racun: racun22
+-------------------------------------------------------------
+Korisnik: K3, broj vozacke:3, dokument:Licna karta:K3
+-------------------------------------------------------------
+Iznajmljivanje: Sun Jun 02 13:00:00 CEST 2024Vozilo: B2, tipa: bicikl, ciji je proizvodjac: B, te model: BM2, sa cijenom nabavke: 2500, domet s jednim punjenjem: 75
+Racuni za sva iznajmljivanja: [
+RACUN:racun12, za iznajmljivanje:Sat Jun 01 13:00:00 CEST 2024, korisnika: K2, trebalo bi da plati: 32,40, a placa: 32,40
+, 
+RACUN:racun20, za iznajmljivanje:Sun Jun 02 10:00:00 CEST 2024, korisnika: K2, trebalo bi da plati: 78,40, a placa: 78,40
+, 
+RACUN:racun22, za iznajmljivanje:Sun Jun 02 13:00:00 CEST 2024, korisnika: K3, trebalo bi da plati: 40,00, a placa: 40,00
+]
+Osnovna cijena: 4.0
+-------------------------------------------------------------
+Udaljenost: 10.0
+-------------------------------------------------------------
+Popusti: 0.4
+-------------------------------------------------------------
+Promocije: 0.0
+-------------------------------------------------------------
+-------------------------------------------------------------
+Ukupan iznos za placanje: 40.0

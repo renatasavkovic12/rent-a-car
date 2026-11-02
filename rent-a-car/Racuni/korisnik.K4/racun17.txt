@@ -1,0 +1,20 @@
+Racun: racun17
+-------------------------------------------------------------
+Korisnik: K4, broj vozacke:4, dokument:Licna karta:K4
+-------------------------------------------------------------
+Iznajmljivanje: Sun Jun 02 09:30:00 CEST 2024Vozilo: A3, tipa: automobil, ciji je proizvodjac: A, te model: M3, sa cijenom nabavke: 75000, datum nabavke: 9.5.2024., dodatan opis: primjer 3
+Racuni za sva iznajmljivanja: [
+RACUN:racun2, za iznajmljivanje:Sat Jun 01 09:30:00 CEST 2024, korisnika: K2, trebalo bi da plati: 78,40, a placa: 78,40
+, 
+RACUN:racun17, za iznajmljivanje:Sun Jun 02 09:30:00 CEST 2024, korisnika: K4, trebalo bi da plati: 4,90, a placa: 4,90
+]
+Osnovna cijena: 1.4
+-------------------------------------------------------------
+Udaljenost: 3.5
+-------------------------------------------------------------
+Popusti: 0.13999999999999999
+-------------------------------------------------------------
+Promocije: 0.0
+-------------------------------------------------------------
+-------------------------------------------------------------
+Ukupan iznos za placanje: 4.8999999999999995

@@ -1,0 +1,20 @@
+Racun: racun25
+-------------------------------------------------------------
+Korisnik: K4, broj vozacke:4, dokument:Pasos:K4
+-------------------------------------------------------------
+Iznajmljivanje: Mon Jun 03 09:00:00 CEST 2024Vozilo: T5, tipa: trotinet, ciji je proizvodjac: T, te model: TM2, sa cijenom nabavke: 500, max brzine: 30
+Racuni za sva iznajmljivanja: [
+RACUN:racun9, za iznajmljivanje:Sat Jun 01 11:30:00 CEST 2024, korisnika: K1, trebalo bi da plati: 5,00, a placa: 5,00
+, 
+RACUN:racun25, za iznajmljivanje:Mon Jun 03 09:00:00 CEST 2024, korisnika: K4, trebalo bi da plati: 32,40, a placa: 32,40
+]
+Osnovna cijena: 3.6
+-------------------------------------------------------------
+Udaljenost: 9.0
+-------------------------------------------------------------
+Popusti: 0.36000000000000004
+-------------------------------------------------------------
+Promocije: 0.0
+-------------------------------------------------------------
+-------------------------------------------------------------
+Ukupan iznos za placanje: 32.4

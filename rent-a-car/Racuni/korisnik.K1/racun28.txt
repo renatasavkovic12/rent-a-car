@@ -1,0 +1,18 @@
+Racun: racun28
+-------------------------------------------------------------
+Korisnik: K1, broj vozacke:1, dokument:Licna karta:K1
+-------------------------------------------------------------
+Iznajmljivanje: Mon Jun 03 10:00:00 CEST 2024Vozilo: B3, tipa: bicikl, ciji je proizvodjac: B, te model: BM3, sa cijenom nabavke: 2700, domet s jednim punjenjem: 110
+Racuni za sva iznajmljivanja: [
+RACUN:racun28, za iznajmljivanje:Mon Jun 03 10:00:00 CEST 2024, korisnika: K1, trebalo bi da plati: 57,60, a placa: 57,60
+]
+Osnovna cijena: 4.800000000000001
+-------------------------------------------------------------
+Udaljenost: 12.000000000000002
+-------------------------------------------------------------
+Popusti: 0.4800000000000001
+-------------------------------------------------------------
+Promocije: 0.0
+-------------------------------------------------------------
+-------------------------------------------------------------
+Ukupan iznos za placanje: 57.600000000000016

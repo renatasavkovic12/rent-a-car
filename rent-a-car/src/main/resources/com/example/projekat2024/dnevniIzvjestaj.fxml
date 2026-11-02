@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="700.0" prefWidth="850.0" style="-fx-background-color: #49a167;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.projekat2024.Kontroleri.dnevniIzvjestajController">
+    <children>
+        <TableView fx:id="dnevniIzvjestajTabela" layoutX="12.0" layoutY="94.0" prefHeight="90.0" prefWidth="830.0">
+            <columns>
+                <TableColumn fx:id="iznajmljivanje" prefWidth="199.2000150680542" text="Iznajmljivanje" />
+                <TableColumn fx:id="ukupanPrihod" minWidth="0.0" prefWidth="55.19999694824219" text="Prihod" />
+                <TableColumn fx:id="ukupanPopust" minWidth="3.20001220703125" prefWidth="67.99993896484375" text="Popust" />
+                <TableColumn fx:id="ukupnoPromocija" minWidth="0.0" prefWidth="74.4000244140625" text="Promocija" />
+                <TableColumn fx:id="iznosVoznjeUziDio" prefWidth="123.20001220703125" text="Iznos voznji uzi dio" />
+                <TableColumn fx:id="ukupnoOdrzavanje" prefWidth="75.20001220703125" text="Odrzavanje" />
+                <TableColumn fx:id="popravkeKvarova" prefWidth="107.99993896484375" text="Popravke kvarova" />
+                <TableColumn fx:id="iznosVoznjeSiriDio" prefWidth="133.5999755859375" text="Iznos voznje siri dio" />
+            </columns>
+        </TableView>
+        <Label layoutX="62.0" layoutY="56.0" text="DNEVNI IZVJEŠTAJ ZA DATUM:" textFill="WHITE">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <Label fx:id="labelDatum" layoutX="247.0" layoutY="55.0" prefHeight="18.0" prefWidth="118.0" textFill="WHITE" />
+        <Label layoutX="34.0" layoutY="216.0" text="SPISAK SVIH RAČUNA ZA OVAJ DNEVNI IZVJEŠTAJ:" textFill="WHITE">
+            <font>
+                <Font name="System Bold" size="12.0" />
+            </font>
+        </Label>
+        <TextArea fx:id="taRacuni" layoutX="10.0" layoutY="240.0" prefHeight="447.0" prefWidth="830.0" />
+    </children>
+</AnchorPane>

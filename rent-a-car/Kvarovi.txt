@@ -1,0 +1,3 @@
+bicikl,B1,Sat Jun 01 09:00:00 CEST 2024,kvar 3
+bicikl,B4,Sat Jun 01 10:00:01 CEST 2024,kvar 1
+automobil,A1,Sat Jun 01 10:00:00 CEST 2024,kvar 1

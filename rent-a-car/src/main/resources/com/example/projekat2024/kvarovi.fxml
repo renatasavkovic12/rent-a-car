@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="700.0" prefWidth="850.0" style="-fx-background-color: #79ac6f;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.projekat2024.Kontroleri.KvaroviController">
+    <children>
+        <TableView fx:id="tabelaKvarova" layoutX="67.0" layoutY="86.0" prefHeight="538.0" prefWidth="698.0">
+            <columns>
+                <TableColumn fx:id="vrstaVozila" prefWidth="137.5999755859375" text="Vrsta vozila" />
+                <TableColumn fx:id="idVozila" prefWidth="70.40000915527344" text="ID vozila" />
+                <TableColumn fx:id="vrijemeKvara" prefWidth="208.0" text="Vrijeme" />
+                <TableColumn fx:id="opisKvara" prefWidth="284.79998779296875" text="Opis kvara" />
+            </columns>
+        </TableView>
+        <Label layoutX="68.0" layoutY="36.0" prefHeight="38.0" prefWidth="374.0" text="Detalji svih kvarova koji su se desili, nalaze se u tabeli:" textFill="WHITE">
+            <font>
+                <Font name="System Bold" size="13.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>
